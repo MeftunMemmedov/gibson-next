@@ -1,0 +1,63 @@
+.bg-color-1{
+    background-color: #292828;;
+}
+
+header{
+    height: 80px;
+    z-index: 1000;
+}
+
+
+.homepage-box-1{
+    height: 600px;
+}
+
+.homepage-product-container{
+    height: 400px;
+}
+
+/* ======SHOP===== */
+
+.product-container{
+    height: 500px;
+}
+
+.product-img-box{
+    height: 70%;
+}
+
+.product-img{
+    width: 100%;
+    height: 350px;
+    object-fit: contain;
+}
+
+
+.product-info-box{
+    height: 30%;
+}
+
+
+
+.add-to-cart-btn-darkOff{
+    border: 1px dashed black;
+    background-color: transparent;
+}
+
+.add-to-cart-btn-darkOn{
+    border: 1px dashed white;
+    background-color: transparent;
+}
+
+/* =====PRODUCT-DETAILS======= */
+/* .product-details-1{
+    height: 500px;
+} */
+
+.product-details-shipping p{
+    font-size: 10px;
+}
+
+.product-details-info-5 h6{
+    font-size: 12px;
+}
